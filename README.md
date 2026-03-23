@@ -2,6 +2,19 @@
 
 A professional desktop application built with Qt 6 and C++ for capturing and displaying live video from system webcams.
 
+## Screenshots
+
+![Webcam Viewer Interface](https://via.placeholder.com/1024x768?text=Webcam+Viewer+Application)
+
+**Application Features:**
+- Clean, intuitive user interface
+- Camera selection dropdown
+- Start/Stop video streaming controls
+- Snapshot capture button
+- Video recording controls
+- Real-time video display area
+- Status bar with error reporting
+
 ## Features
 
 - **Multi-Camera Support**: Detect and select from available camera devices
