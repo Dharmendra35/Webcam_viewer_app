@@ -6,24 +6,8 @@ A professional desktop application built with Qt 6 and C++ for capturing and dis
 
 The application features a clean, intuitive interface with:
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ Webcam Viewer                                       [_][□][X]
-├─────────────────────────────────────────────────────────┤
-│ Camera Controls                                         │
-│ Select Camera: [Integrated Camera ▼]  [Start] [Snapshot] [Record] │
-│                                                         │
-├─────────────────────────────────────────────────────────┤
-│ Video Feed                                              │
-│                                                         │
-│                    [Live Video Stream]                  │
-│                                                         │
-│                                                         │
-│                                                         │
-├─────────────────────────────────────────────────────────┤
-│ Ready                                                   │
-└─────────────────────────────────────────────────────────┘
-```
+<img width="1912" height="1014" alt="Screenshot 2026-03-23 175741" src="https://github.com/user-attachments/assets/81151d83-54fa-408b-b408-7b2fe5611967" />
+
 
 **Key UI Elements:**
 - Camera selection dropdown with auto-detection
